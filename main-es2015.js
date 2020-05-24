@@ -276,7 +276,7 @@ DelikateseComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefi
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
                 selector: 'app-delikatese',
-                templateUrl: './delikatese.component.html',
+                templateUrl: './src/app/mant/delikatese/delikatese.component.html',
                 styleUrls: ['./delikatese.component.css']
             }]
     }], function () { return []; }, null); })();
@@ -494,7 +494,7 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
                 selector: 'app-maloprodaja',
-                templateUrl: './maloprodaja.component.html',
+                templateUrl: './src/app/mant/maloprodaja/maloprodaja.component.html',
                 styleUrls: ['./maloprodaja.component.css']
             }]
     }], function () { return []; }, null); })();
@@ -556,7 +556,7 @@ NavbarComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
                 selector: 'app-navbar',
-                templateUrl: './navbar.component.html',
+                templateUrl: './src/app/mant/navbar/navbar.component.html',
                 styleUrls: ['./navbar.component.css']
             }]
     }], function () { return []; }, null); })();
@@ -793,7 +793,7 @@ VeleprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
                 selector: 'app-veleprodaja',
-                templateUrl: './veleprodaja.component.html',
+                templateUrl: './src/app/mant/veleprodaja/veleprodaja.component.html',
                 styleUrls: ['./veleprodaja.component.css']
             }]
     }], function () { return []; }, null); })();

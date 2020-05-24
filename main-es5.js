@@ -558,7 +558,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
           selector: 'app-delikatese',
-          templateUrl: './delikatese.component.html',
+          templateUrl: './src/app/mant/delikatese/delikatese.component.html',
           styleUrls: ['./delikatese.component.css']
         }]
       }], function () {
@@ -1000,7 +1000,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
           selector: 'app-maloprodaja',
-          templateUrl: './maloprodaja.component.html',
+          templateUrl: './src/app/mant/maloprodaja/maloprodaja.component.html',
           styleUrls: ['./maloprodaja.component.css']
         }]
       }], function () {
@@ -1133,7 +1133,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
           selector: 'app-navbar',
-          templateUrl: './navbar.component.html',
+          templateUrl: './src/app/mant/navbar/navbar.component.html',
           styleUrls: ['./navbar.component.css']
         }]
       }], function () {
@@ -1615,7 +1615,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
         args: [{
           selector: 'app-veleprodaja',
-          templateUrl: './veleprodaja.component.html',
+          templateUrl: './src/app/mant/veleprodaja/veleprodaja.component.html',
           styleUrls: ['./veleprodaja.component.css']
         }]
       }], function () {
