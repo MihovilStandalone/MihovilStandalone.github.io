@@ -172,25 +172,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony import */
 
 
-    var _mant_about_us_about_us_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
-    /*! ./mant/about-us/about-us.component */
-    "./src/app/mant/about-us/about-us.component.ts");
-    /* harmony import */
-
-
-    var _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
+    var _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(
     /*! ./mant/contact/contact.component */
     "./src/app/mant/contact/contact.component.ts");
     /* harmony import */
 
 
-    var _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
+    var _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(
     /*! ./mant/veleprodaja/veleprodaja.component */
     "./src/app/mant/veleprodaja/veleprodaja.component.ts");
     /* harmony import */
 
 
-    var _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(
+    var _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(
     /*! ./mant/maloprodaja/maloprodaja.component */
     "./src/app/mant/maloprodaja/maloprodaja.component.ts");
 
@@ -215,23 +209,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         path: 'delikatese',
         component: _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"]
       }, {
-        path: 'o-nama',
-        component: _mant_about_us_about_us_component__WEBPACK_IMPORTED_MODULE_6__["AboutUsComponent"]
-      }, {
         path: 'kontakt',
-        component: _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_7__["ContactComponent"]
+        component: _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_6__["ContactComponent"]
       }, {
         path: 'veleprodaja',
-        component: _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_8__["VeleprodajaComponent"]
+        component: _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_7__["VeleprodajaComponent"]
       }, {
         path: 'maloprodaja',
-        component: _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_9__["MaloprodajaComponent"]
+        component: _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_8__["MaloprodajaComponent"]
       }])]]
     });
 
     (function () {
       (typeof ngJitMode === "undefined" || ngJitMode) && _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵsetNgModuleScope"](AppModule, {
-        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"], _mant_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_5__["NavbarComponent"], _mant_about_us_about_us_component__WEBPACK_IMPORTED_MODULE_6__["AboutUsComponent"], _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_7__["ContactComponent"], _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_8__["VeleprodajaComponent"], _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_9__["MaloprodajaComponent"]],
+        declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"], _mant_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_5__["NavbarComponent"], _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_6__["ContactComponent"], _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_7__["VeleprodajaComponent"], _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_8__["MaloprodajaComponent"]],
         imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterModule"]]
       });
     })();
@@ -242,7 +233,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵsetClassMetadata"](AppModule, [{
         type: _angular_core__WEBPACK_IMPORTED_MODULE_1__["NgModule"],
         args: [{
-          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"], _mant_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_5__["NavbarComponent"], _mant_about_us_about_us_component__WEBPACK_IMPORTED_MODULE_6__["AboutUsComponent"], _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_7__["ContactComponent"], _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_8__["VeleprodajaComponent"], _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_9__["MaloprodajaComponent"]],
+          declarations: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"], _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"], _mant_navbar_navbar_component__WEBPACK_IMPORTED_MODULE_5__["NavbarComponent"], _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_6__["ContactComponent"], _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_7__["VeleprodajaComponent"], _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_8__["MaloprodajaComponent"]],
           imports: [_angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"], _angular_router__WEBPACK_IMPORTED_MODULE_3__["RouterModule"].forRoot([{
             path: '',
             redirectTo: 'delikatese',
@@ -251,99 +242,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
             path: 'delikatese',
             component: _mant_delikatese_delikatese_component__WEBPACK_IMPORTED_MODULE_4__["DelikateseComponent"]
           }, {
-            path: 'o-nama',
-            component: _mant_about_us_about_us_component__WEBPACK_IMPORTED_MODULE_6__["AboutUsComponent"]
-          }, {
             path: 'kontakt',
-            component: _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_7__["ContactComponent"]
+            component: _mant_contact_contact_component__WEBPACK_IMPORTED_MODULE_6__["ContactComponent"]
           }, {
             path: 'veleprodaja',
-            component: _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_8__["VeleprodajaComponent"]
+            component: _mant_veleprodaja_veleprodaja_component__WEBPACK_IMPORTED_MODULE_7__["VeleprodajaComponent"]
           }, {
             path: 'maloprodaja',
-            component: _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_9__["MaloprodajaComponent"]
+            component: _mant_maloprodaja_maloprodaja_component__WEBPACK_IMPORTED_MODULE_8__["MaloprodajaComponent"]
           }])],
           providers: [],
           bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"]]
         }]
       }], null, null);
-    })();
-    /***/
-
-  },
-
-  /***/
-  "./src/app/mant/about-us/about-us.component.ts":
-  /*!*****************************************************!*\
-    !*** ./src/app/mant/about-us/about-us.component.ts ***!
-    \*****************************************************/
-
-  /*! exports provided: AboutUsComponent */
-
-  /***/
-  function srcAppMantAboutUsAboutUsComponentTs(module, __webpack_exports__, __webpack_require__) {
-    "use strict";
-
-    __webpack_require__.r(__webpack_exports__);
-    /* harmony export (binding) */
-
-
-    __webpack_require__.d(__webpack_exports__, "AboutUsComponent", function () {
-      return AboutUsComponent;
-    });
-    /* harmony import */
-
-
-    var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(
-    /*! @angular/core */
-    "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
-
-    var AboutUsComponent = /*#__PURE__*/function () {
-      function AboutUsComponent() {
-        _classCallCheck(this, AboutUsComponent);
-      }
-
-      _createClass(AboutUsComponent, [{
-        key: "ngOnInit",
-        value: function ngOnInit() {}
-      }]);
-
-      return AboutUsComponent;
-    }();
-
-    AboutUsComponent.ɵfac = function AboutUsComponent_Factory(t) {
-      return new (t || AboutUsComponent)();
-    };
-
-    AboutUsComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
-      type: AboutUsComponent,
-      selectors: [["app-about-us"]],
-      decls: 2,
-      vars: 0,
-      template: function AboutUsComponent_Template(rf, ctx) {
-        if (rf & 1) {
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "p");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, "O nama text");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-        }
-      },
-      styles: ["\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL21hbnQvYWJvdXQtdXMvYWJvdXQtdXMuY29tcG9uZW50LmNzcyJ9 */"]
-    });
-    /*@__PURE__*/
-
-    (function () {
-      _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵsetClassMetadata"](AboutUsComponent, [{
-        type: _angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"],
-        args: [{
-          selector: 'app-about-us',
-          templateUrl: './about-us.component.html',
-          styleUrls: ['./about-us.component.css']
-        }]
-      }], function () {
-        return [];
-      }, null);
     })();
     /***/
 
@@ -395,9 +306,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     ContactComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: ContactComponent,
       selectors: [["app-contact"]],
-      decls: 21,
+      decls: 25,
       vars: 0,
-      consts: [[1, "container", "mt-3"], [1, "card", "p4", "bg-white"], [1, "card-header"], [1, "card-title"], [1, "ml-2"], [1, "card-body"], [1, "card-text"], [1, "card-text", "ml-3"], [1, "ml-3"]],
+      consts: [[1, "container", "mt-3"], [1, "card", "p4", "bg-white"], [1, "card-header"], [1, "card-title"], [1, "ml-2"], [1, "card-body"], [1, "card-text"], [1, "card-text", "ml-3"], [1, "ml-3"], [2, "float", "right"], [1, "mapouter"], [1, "gmap_canvas"], ["width", "700", "height", "500", "id", "gmap_canvas", "src", "https://maps.google.com/maps?q=dolac%2C%20zagreb&t=&z=15&ie=UTF8&iwloc=&output=embed", "frameborder", "0", "scrolling", "no", "marginheight", "0", "marginwidth", "0"]],
       template: function ContactComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -457,6 +368,20 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "div", 6);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "\u25AA 091-572-6410");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 9);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 10);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 11);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](24, "iframe", 12);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -537,14 +462,24 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     DelikateseComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: DelikateseComponent,
       selectors: [["app-delikatese"]],
-      decls: 2,
+      decls: 5,
       vars: 0,
-      consts: [[1, "container"]],
+      consts: [[1, "container"], [2, "text-align", "center", "width", "100%"], ["src", "assets/images/Du\u0107an maloprodaja Dolac.jpg", "alt", "Trgovina", 1, "card-img-top", 2, "width", "900px", "height", "500px"]],
       template: function DelikateseComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](1, " works!\n");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "p");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, " Mant d.o.o Obiteljska firma koja uspje\u0161no posluje na tr\u017Ei\u0161tu od 2006 godine. Poslovna orijentacija firme je : - Maloprodaja delikatesnog asortimana koja se nalazi na tr\u017Enici Dolac -Veleprodaja sa poslovnom orijentacijom na asortiman za restorane i hotele ");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "div", 1);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](4, "img", 2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         }
@@ -615,9 +550,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: MaloprodajaComponent,
       selectors: [["app-maloprodaja"]],
-      decls: 116,
+      decls: 93,
       vars: 0,
-      consts: [[1, "container", "mt-3"], [1, "card", "p-3", 2, "width", "fit-content"], [1, "row"], [1, "col-12"], [1, "card", "mx-2", "p-3"], ["src", "assets/images/PR\u0160UT- BEL CRO.jpg", "alt", "...", 1, "card-img-top", "imgSize"], [1, "card-body"], [1, "card-title"], [1, "card-text"], ["src", "...", "alt", "Gove\u0111i pr\u0161ut - suduk", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Salame od divlja\u010Di", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Divlja\u010D", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Perad", 1, "card-img-top", "imgSize"], [1, "card", "p-3", "mt-4", 2, "width", "fit-content"], ["src", "assets/images/SIREVI- MIH.jpg", "alt", "MIH Sirana Kolan", 1, "card-img-top", "imgSize"], ["src", "assets/images/SIREVI- KRASNO  RUNOLIST.jpg", "alt", "Sirana Tomai\u0107", 1, "card-img-top", "imgSize"], ["src", "assets/images/PA\u0160KA SIRANA.jpg", "alt", "Pa\u0161ka sirana d.d.", 1, "card-img-top", "imgSize"], ["src", "assets/images/I-pak-sirevi-e1414604160717.jpg", "alt", "Sirana I-Pak", 1, "card-img-top", "imgSize"], ["src", "assets/images/GRANA PADANA.png", "alt", "Grana padana", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "\u010Cedar", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Pekorino", 1, "card-img-top", "imgSize"], ["src", "assets/images/mini-paski-sir.jpg", "alt", "mini paski sir", 1, "card-img-top", "imgSize"], ["src", "assets/images/paski-sir.jpg", "alt", "paski sir", 1, "card-img-top", "imgSize"], ["src", "assets/images/marija-zvijezda.png", "alt", "marija-zvijezda", 1, "card-img-top", "imgSize"]],
+      consts: [[1, "container", "mt-3"], [1, "card", "p-3", 2, "width", "fit-content"], [1, "row"], [1, "col-12"], [1, "card", "mx-2", "p-3"], ["src", "../../../../assets/images/PR\u0160UT-%20BEL%20CRO.jpg", "alt", "...", 1, "card-img-top", "imgSize"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/Gove\u0111i pr\u0161ut i gove\u0111i su\u0111uk, halal certifikat.jpg", "alt", "Gove\u0111i pr\u0161ut - suduk", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Salame od divlja\u010Di", 1, "card-img-top", "imgSize"], ["src", "assets/images/kobasicaOdDivljaci.jpg", "alt", "Divlja\u010D", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Perad", 1, "card-img-top", "imgSize"], ["src", "assets/images/plata.jpg", "alt", "Plata", 1, "card-img-top", "imgSize"], [1, "card", "p-3", "mt-4", 2, "width", "fit-content"], ["src", "../../../../assets/images/SIREVI-%20MIH.jpg", "alt", "MIH Sirana Kolan", 1, "card-img-top", "imgSize"], [1, "card-text"], ["src", "../../../../assets/images/SIREVI-%20KRASNO%20%20RUNOLIST.jpg", "alt", "Sirana Tomai\u0107", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/PA\u0160KA%20SIRANA.jpg", "alt", "Pa\u0161ka sirana d.d.", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/I-pak-sirevi-e1414604160717.jpg", "alt", "Sirana I-Pak", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/GRANA%20PADANA.png", "alt", "Grana padana", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "\u010Cedar", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Pekorino", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/mini-paski-sir.jpg", "alt", "mini paski sir", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/paski-sir.jpg", "alt", "paski sir", 1, "card-img-top", "imgSize"], ["src", "../../../../assets/images/marija-zvijezda.png", "alt", "marija-zvijezda", 1, "card-img-top", "imgSize"]],
       template: function MaloprodajaComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
@@ -648,9 +583,19 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "p", 8);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "suh0");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](12, "img", 8);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "h5", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Govedi pr\u0161ut - Su\u0111uk");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -658,21 +603,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](14, "img", 9);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](17, "img", 9);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](15, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](16, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](17, "Govedi pr\u0161ut - Suduk");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "suh1");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "Salame od divlja\u010Di");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -680,21 +619,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](21, "img", 10);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](22, "img", 10);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](23, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](24, "Salame od divlja\u010Di");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](26, "suh2");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](25, "Divlja\u010D");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -702,21 +635,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](27, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](28, "img", 11);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](27, "img", 11);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](28, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](31, "Divlja\u010D");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](33, "suh3");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](30, "Perad");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -724,21 +651,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](35, "img", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](32, "img", 12);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](34, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, "Perad");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](40, "suh4");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](35, "Plata");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -750,35 +671,51 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 13);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](36, "div", 13);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](42, "div", 2);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "h4", 3);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](38, "h4", 3);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](44, "Sirevi");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](39, "Sirevi");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "div", 2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](41, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](42, "img", 14);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](43, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](44, "h5", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](45, "MIH Sirana Kolan");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "p", 15);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](47, "Sir1");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](45, "div", 2);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](46, "div", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](47, "img", 14);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](49, "h5", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](50, "MIH Sirana Kolan");
-
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "p", 8);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](48, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](52, "Sir1");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](49, "img", 16);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](50, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](51, "h5", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](52, "Sirana Tomai\u0107, Krasno");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -788,19 +725,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](53, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "img", 15);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](54, "img", 17);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](55, "div", 6);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](56, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](57, "Sirana Tomai\u0107, Krasno");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](59, "Sir2");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](57, "Pa\u0161ka sirana d.d.");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -808,21 +739,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](58, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](61, "img", 16);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](59, "img", 18);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](62, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](60, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](61, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](64, "Pa\u0161ka sirana d.d.");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](66, "Sir3");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](62, "Sirana I-Pak, Pakovo selo");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -830,21 +755,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](67, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](63, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](68, "img", 17);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](64, "img", 19);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](69, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](65, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](66, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](71, "Sirana I-Pak, Pakovo selo");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](72, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](73, "Sir4");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](67, "Grana padana");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -852,21 +771,15 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](68, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "img", 18);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](69, "img", 20);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](70, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](71, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "Grana padana");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](80, "Sir5");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](72, "\u010Cedar");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -874,21 +787,47 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "div", 4);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](82, "img", 19);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](74, "img", 21);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 6);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](75, "div", 6);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](84, "h5", 7);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](85, "\u010Cedar");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](77, "Pekorino");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "p", 8);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, "Sir6");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](78, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](79, "img", 22);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](81, "h5", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](82, "Mini pa\u0161ki sir");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "div", 4);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](84, "img", 23);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 6);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "h5", 7);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](87, "Pa\u0161ki sir");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -898,85 +837,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "div", 4);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "img", 20);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](89, "img", 24);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](90, "div", 6);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "h5", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "Pekorino");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](93, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](94, "Sir7");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "div", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](96, "img", 21);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "h5", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](99, "Mini pa\u0161ki sir");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](101, "Sir8");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](102, "div", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](103, "img", 22);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](105, "h5", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](106, "Pa\u0161ki sir");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, "Sir9");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](109, "div", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](110, "img", 23);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](111, "div", 6);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](112, "h5", 7);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](113, "Marija zvijezda");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](114, "p", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](115, "Sir10");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](92, "Marija zvijezda");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1063,9 +930,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     NavbarComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: NavbarComponent,
       selectors: [["app-navbar"]],
-      decls: 16,
+      decls: 13,
       vars: 0,
-      consts: [[1, "navbar", "navbar-expand", "navbar-light", "bg-light"], ["href", "#", 1, "navbar-brand"], ["src", "assets/images/MANTlogo.png", "alt", "MANT logo", 2, "width", "100px", "height", "50px"], [1, "navbar-nav", "ml-auto"], [1, "nav-item"], ["routerLink", "/maloprodaja", 1, "nav-link"], ["routerLink", "/veleprodaja", 1, "nav-link"], ["routerLink", "/o-nama", 1, "nav-link"], ["routerLink", "/kontakt", 1, "nav-link"]],
+      consts: [[1, "navbar", "navbar-expand", "navbar-light", "bg-light"], ["href", "#", 1, "navbar-brand"], ["src", "../../../../assets/images/MANTlogo.png", "alt", "MANT logo", 2, "width", "70px", "height", "60px"], [1, "navbar-nav", "ml-auto"], [1, "nav-item"], ["routerLink", "/maloprodaja", 1, "nav-link"], ["routerLink", "/veleprodaja", 1, "nav-link"], ["routerLink", "/kontakt", 1, "nav-link"]],
       template: function NavbarComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "nav", 0);
@@ -1102,17 +969,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "a", 7);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "O nama");
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](13, "li", 4);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](14, "a", 8);
-
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](15, "Kontakt");
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](12, "Kontakt");
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1515,7 +1372,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       selectors: [["app-veleprodaja"]],
       decls: 17,
       vars: 4,
-      consts: [[1, "container", "mt-3"], [1, "bg-light", "p-2", "rounded", 2, "cursor", "pointer", 3, "click"], [4, "ngIf"], [1, "row"], [1, "card"], ["src", "...", "alt", "Janje\u0107a koljenica", 1, "card-img-top", "imgSize"], [1, "card-body"], [1, "card-title"], ["src", "...", "alt", "Janje\u0107i file", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Janje\u0107i but", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "...", 1, "card-img-top", "imgSize"], ["src", "assets/images/LOMO-FRECH-RACK-3.jpg", "alt", "Janje\u0107i fre\u010D. reck", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Porcionirani biftek", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "June\u0107i ribaj", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "T-bone", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "June\u0107i burger", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Iberico fren\u010D. reck", 1, "card-img-top", "imgSize"], ["src", "assets/images/presaa iberica.jpg", "alt", "...", 1, "card-img-top"], ["src", "...", "alt", "Pa\u010Dja prsa", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Pa\u010Dji batak - zabatak", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Gu\u0161\u010Dja jetra", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Gu\u0161\u010Dja mast", 1, "card-img-top", "imgSize"]],
+      consts: [[1, "container", "mt-3"], [1, "bg-light", "p-2", "rounded", 2, "cursor", "pointer", 3, "click"], [4, "ngIf"], [1, "row"], [1, "card"], ["src", "...", "alt", "Janje\u0107a koljenica", 1, "card-img-top", "imgSize"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/janje\u0107i file.jpg", "alt", "Janje\u0107i file", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "Janje\u0107i but", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "...", 1, "card-img-top", "imgSize"], ["src", "assets/images/janjeciFrencRek.jpg", "alt", "Janje\u0107i fre\u010D. reck", 1, "card-img-top", "imgSize"], ["src", "assets/images/porcionirani june\u0107i biftek 250g.jpg", "alt", "Porcionirani biftek", 1, "card-img-top", "imgSize"], ["src", "assets/images/porcionirani june\u0107i rib eye 300g.jpg", "alt", "June\u0107i ribaj", 1, "card-img-top", "imgSize"], ["src", "...", "alt", "T-bone", 1, "card-img-top", "imgSize"], ["src", "assets/images/juneciburger.jpg", "alt", "June\u0107i burger", 1, "card-img-top", "imgSize"], ["src", "assets/images/Iberico presa, crna svinja.jpg", "alt", "Iberico fren\u010D. reck", 1, "card-img-top", "imgSize"], ["src", "assets/images/presaa%20iberica.jpg", "alt", "...", 1, "card-img-top"], ["src", "assets/images/Pa\u010Dja prsa.jpg", "alt", "Pa\u010Dja prsa", 1, "card-img-top", "imgSize"], ["src", "assets/images/pacjiBatakZabatak.jpg", "alt", "Pa\u010Dji batak - zabatak", 1, "card-img-top", "imgSize"], ["src", "assets/images/gusjaJetra.jpg", "alt", "Gu\u0161\u010Dja jetra", 1, "card-img-top", "imgSize"], ["src", "assets/images/gusjamast_gusjajetra.jpg", "alt", "Gu\u0161\u010Dja mast", 1, "card-img-top", "imgSize"]],
       template: function VeleprodajaComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
