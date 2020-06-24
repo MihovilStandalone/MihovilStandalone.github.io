@@ -63,6 +63,36 @@
   },
 
   /***/
+  "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/assets/fonts/fonts.css":
+  /*!*********************************************************************************************************************************!*\
+    !*** ./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??embedded!./src/assets/fonts/fonts.css ***!
+    \*********************************************************************************************************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function node_modulesCssLoaderDistCjsJsNode_modulesPostcssLoaderSrcIndexJsSrcAssetsFontsFontsCss(module, exports, __webpack_require__) {
+    // Imports
+    var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(
+    /*! ../../../node_modules/css-loader/dist/runtime/api.js */
+    "./node_modules/css-loader/dist/runtime/api.js");
+
+    exports = ___CSS_LOADER_API_IMPORT___(true); // Module
+
+    exports.push([module.i, "@font-face {\n    font-family: Open_Sans;\n    src: url(\"/assets/fonts/Open_Sans/OpenSans-Regular.ttf\") format(\"truetype\");\n}", "", {
+      "version": 3,
+      "sources": ["fonts.css"],
+      "names": [],
+      "mappings": "AAAA;IACI,sBAAsB;IACtB,2EAA2E;AAC/E",
+      "file": "fonts.css",
+      "sourcesContent": ["@font-face {\n    font-family: Open_Sans;\n    src: url(\"/assets/fonts/Open_Sans/OpenSans-Regular.ttf\") format(\"truetype\");\n}"]
+    }]); // Exports
+
+    module.exports = exports;
+    /***/
+  },
+
+  /***/
   "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/styles.css":
   /*!*********************************************************************************************************************!*\
     !*** ./node_modules/css-loader/dist/cjs.js??ref--12-1!./node_modules/postcss-loader/src??embedded!./src/styles.css ***!
@@ -79,13 +109,13 @@
 
     exports = ___CSS_LOADER_API_IMPORT___(true); // Module
 
-    exports.push([module.i, ".imgSize{\n    width: 200px;\n    height: auto;\n}\n", "", {
+    exports.push([module.i, "* {\n\tfont-family: 'Open_Sans', 'arial', sans-serif;\n}\n\n.imgSize{\n    width: 200px;\n    height: auto;\n}\n", "", {
       "version": 3,
       "sources": ["styles.css"],
       "names": [],
-      "mappings": "AAAA;IACI,YAAY;IACZ,YAAY;AAChB",
+      "mappings": "AAAA;CACC,6CAA6C;AAC9C;;AAEA;IACI,YAAY;IACZ,YAAY;AAChB",
       "file": "styles.css",
-      "sourcesContent": [".imgSize{\n    width: 200px;\n    height: auto;\n}\n"]
+      "sourcesContent": ["* {\n\tfont-family: 'Open_Sans', 'arial', sans-serif;\n}\n\n.imgSize{\n    width: 200px;\n    height: auto;\n}\n"]
     }]); // Exports
 
     module.exports = exports;
@@ -484,6 +514,39 @@
   },
 
   /***/
+  "./src/assets/fonts/fonts.css":
+  /*!************************************!*\
+    !*** ./src/assets/fonts/fonts.css ***!
+    \************************************/
+
+  /*! no static exports found */
+
+  /***/
+  function srcAssetsFontsFontsCss(module, exports, __webpack_require__) {
+    var api = __webpack_require__(
+    /*! ../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+    "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js");
+
+    var content = __webpack_require__(
+    /*! !../../../node_modules/css-loader/dist/cjs.js??ref--12-1!../../../node_modules/postcss-loader/src??embedded!./fonts.css */
+    "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/assets/fonts/fonts.css");
+
+    content = content.__esModule ? content["default"] : content;
+
+    if (typeof content === 'string') {
+      content = [[module.i, content, '']];
+    }
+
+    var options = {};
+    options.insert = "head";
+    options.singleton = false;
+    var update = api(content, options);
+    var exported = content.locals ? content.locals : {};
+    module.exports = exported;
+    /***/
+  },
+
+  /***/
   "./src/styles.css":
   /*!************************!*\
     !*** ./src/styles.css ***!
@@ -518,9 +581,9 @@
 
   /***/
   3:
-  /*!**********************************************************************************!*\
-    !*** multi ./node_modules/bootstrap/dist/css/bootstrap.min.css ./src/styles.css ***!
-    \**********************************************************************************/
+  /*!***************************************************************************************************************!*\
+    !*** multi ./node_modules/bootstrap/dist/css/bootstrap.min.css ./src/styles.css ./src/assets/fonts/fonts.css ***!
+    \***************************************************************************************************************/
 
   /*! no static exports found */
 
@@ -530,9 +593,13 @@
     /*! /Users/mihovilmaricic/Desktop/delikatese/node_modules/bootstrap/dist/css/bootstrap.min.css */
     "./node_modules/bootstrap/dist/css/bootstrap.min.css");
 
-    module.exports = __webpack_require__(
+    __webpack_require__(
     /*! /Users/mihovilmaricic/Desktop/delikatese/src/styles.css */
     "./src/styles.css");
+
+    module.exports = __webpack_require__(
+    /*! /Users/mihovilmaricic/Desktop/delikatese/src/assets/fonts/fonts.css */
+    "./src/assets/fonts/fonts.css");
     /***/
   }
 }, [[3, "runtime"]]]);
