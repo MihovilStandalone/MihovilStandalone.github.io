@@ -286,7 +286,7 @@ class MaloprodajaComponent {
     }
 }
 MaloprodajaComponent.ɵfac = function MaloprodajaComponent_Factory(t) { return new (t || MaloprodajaComponent)(); };
-MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: MaloprodajaComponent, selectors: [["app-maloprodaja"]], decls: 103, vars: 0, consts: [[1, "container", "mt-3"], [1, "row"], [1, "col-md-3", "d-flex", "align-items-stretch", "pb-2"], [1, "card"], ["src", "assets/images/PR\u0160UT-%20BEL%20CRO.jpg", "alt", "Card image cap", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/Gove\u0111i pr\u0161ut i gove\u0111i su\u0111uk, halal certifikat.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/kobasicaOdDivljaci.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/gulas_divljac.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/plata.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/SIREVI-%20MIH.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/SIREVI-%20KRASNO%20%20RUNOLIST.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/PA\u0160KA%20SIRANA.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/I-pak-sirevi-e1414604160717.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/GRANA%20PADANA.png", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/mini-paski-sir.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/paski-sir.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "../../../../assets/images/marija-zvijezda.png", "alt", "Card image cap", 1, "card-img-top"]], template: function MaloprodajaComponent_Template(rf, ctx) { if (rf & 1) {
+MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: MaloprodajaComponent, selectors: [["app-maloprodaja"]], decls: 109, vars: 0, consts: [[1, "container", "mt-3"], [1, "row"], [1, "col-md-3", "d-flex", "align-items-stretch", "pb-2"], [1, "card"], ["src", "assets/images/PR\u0160UT-%20BEL%20CRO.jpg", "alt", "Card image cap", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/Gove\u0111i pr\u0161ut i gove\u0111i su\u0111uk, halal certifikat.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/kobasicaOdDivljaci.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/gulas_divljac.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/prepelica.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/plata.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/SIREVI-%20MIH.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/SIREVI-%20KRASNO%20%20RUNOLIST.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/PA\u0160KA%20SIRANA.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/I-pak-sirevi-e1414604160717.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/GRANA%20PADANA.png", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/pekorino maloprodaja.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/mini-paski-sir.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/paski-sir.jpg", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/marija-zvijezda.png", "alt", "Card image cap", 1, "card-img-top"], ["src", "assets/images/misina.jpg", "alt", "Card image cap", 1, "card-img-top"]], template: function MaloprodajaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Suhomesnati proizvodi");
@@ -409,7 +409,7 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](73, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](74, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "img", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](75, "img", 17);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](76, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](77, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](78, "\u010Cedar");
@@ -419,7 +419,7 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](79, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](80, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "img", 10);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](81, "img", 18);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](82, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](83, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](84, "Pekorino");
@@ -429,7 +429,7 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](85, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](86, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "img", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](87, "img", 19);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](88, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](89, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](90, "Mini pa\u0161ki sir");
@@ -439,7 +439,7 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](91, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](92, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "img", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](93, "img", 20);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](94, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](95, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](96, "Pa\u0161ki sir");
@@ -449,10 +449,20 @@ MaloprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdef
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](97, "div", 2);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](98, "div", 3);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](99, "img", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](99, "img", 21);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](100, "div", 5);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](101, "h5", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](102, "Marija zvijezda");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](103, "div", 2);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](104, "div", 3);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](105, "img", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](106, "div", 5);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](107, "h5", 6);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](108, "Sir iz mi\u0161ine");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
@@ -551,7 +561,7 @@ class VeleprodajaComponent {
     }
 }
 VeleprodajaComponent.ɵfac = function VeleprodajaComponent_Factory(t) { return new (t || VeleprodajaComponent)(); };
-VeleprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: VeleprodajaComponent, selectors: [["app-veleprodaja"]], decls: 103, vars: 0, consts: [[1, "container", "mt-3"], [1, "row"], [1, "col-md-3", "d-flex", "align-items-stretch", "pb-2"], [1, "card"], ["src", "assets/images/janje\u0107a koljenica.jpg", "alt", "Janje\u0107a koljenica", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/janje\u0107i file.jpg", "alt", "Janje\u0107i file", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "Janje\u0107i but", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "Janje\u0107a pred. \u010Detvrt", 1, "card-img-top"], ["src", "assets/images/janjeciFrencRek.jpg", "alt", "Janje\u0107i fre\u010D. reck", 1, "card-img-top"], ["src", "assets/images/porcionirani june\u0107i biftek 250g.jpg", "alt", "Porcionirani biftek", 1, "card-img-top"], ["src", "assets/images/porcionirani june\u0107i rib eye 300g.jpg", "alt", "June\u0107i ribaj", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "T-bone", 1, "card-img-top"], ["src", "assets/images/juneciburger.jpg", "alt", "June\u0107i burger", 1, "card-img-top"], ["src", "assets/images/Iberico presa, crna svinja.jpg", "alt", "Iberico fren\u010D. reck", 1, "card-img-top"], ["src", "assets/images/presaa%20iberica.jpg", "alt", "presa odrezak", 1, "card-img-top"], ["src", "assets/images/Pa\u010Dja prsa.jpg", "alt", "Pa\u010Dja prsa", 1, "card-img-top"], ["src", "assets/images/pacjiBatakZabatak.jpg", "alt", "Pa\u010Dji batak - zabatak", 1, "card-img-top"], ["src", "assets/images/gusjaJetra.jpg", "alt", "Gu\u0161\u010Dja jetra", 1, "card-img-top"], ["src", "assets/images/gusjamast_gusjajetra.jpg", "alt", "Gu\u0161\u010Dja mast", 1, "card-img-top"]], template: function VeleprodajaComponent_Template(rf, ctx) { if (rf & 1) {
+VeleprodajaComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: VeleprodajaComponent, selectors: [["app-veleprodaja"]], decls: 103, vars: 0, consts: [[1, "container", "mt-3"], [1, "row"], [1, "col-md-3", "d-flex", "align-items-stretch", "pb-2"], [1, "card"], ["src", "assets/images/janje\u0107a koljenica.jpg", "alt", "Janje\u0107a koljenica", 1, "card-img-top"], [1, "card-body"], [1, "card-title"], ["src", "assets/images/janje\u0107i file.jpg", "alt", "Janje\u0107i file", 1, "card-img-top"], ["src", "assets/images/but.jpg", "alt", "Janje\u0107i but", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "Janje\u0107a pred. \u010Detvrt", 1, "card-img-top"], ["src", "assets/images/janjeciFrencRek.jpg", "alt", "Janje\u0107i fre\u010D. reck", 1, "card-img-top"], ["src", "assets/images/porcionirani june\u0107i biftek 250g.jpg", "alt", "Porcionirani biftek", 1, "card-img-top"], ["src", "assets/images/porcionirani june\u0107i rib eye 300g.jpg", "alt", "June\u0107i ribaj", 1, "card-img-top"], ["src", "assets/images/not-found.png", "alt", "T-bone", 1, "card-img-top"], ["src", "assets/images/juneciburger.jpg", "alt", "June\u0107i burger", 1, "card-img-top"], ["src", "assets/images/frenchrack.jpg", "alt", "Iberico fren\u010D. reck", 1, "card-img-top"], ["src", "assets/images/presaa%20iberica.jpg", "alt", "presa odrezak", 1, "card-img-top"], ["src", "assets/images/Pa\u010Dja prsa.jpg", "alt", "Pa\u010Dja prsa", 1, "card-img-top"], ["src", "assets/images/pacjiBatakZabatak.jpg", "alt", "Pa\u010Dji batak - zabatak", 1, "card-img-top"], ["src", "assets/images/gusjaJetra.jpg", "alt", "Gu\u0161\u010Dja jetra", 1, "card-img-top"], ["src", "assets/images/gusjamast_gusjajetra.jpg", "alt", "Gu\u0161\u010Dja mast", 1, "card-img-top"]], template: function VeleprodajaComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "h1");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Janjetina");
